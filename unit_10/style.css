@@ -1,0 +1,23 @@
+head{
+	font-family: @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display');
+}
+font-size: 28px;
+
+}
+#slogan #name {
+	font-family: cursive;
+	color: ff0000; 
+}
+ #name {
+	font-family: cursive;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+body{
+	text-align: center;
+}
+
+#src{
+	align-content: center;
+}
